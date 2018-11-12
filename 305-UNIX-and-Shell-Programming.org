@@ -26,7 +26,7 @@ Foundations: Why Unix -- Computer System -- The Unix Environment -- UNIX Structu
 File Systems: Filenames – File Types – Regular Files -- Directories – File System Implementation – Operations on Files and Directories; Security and File Permissions: Users and Groups – Security Levels – Changing Permissions – User Masks – Changing Ownership and Groups; Regular Expressions: Atoms – Operators;
 
 {{{unit}}}
-Unit III|SHELLS & FILTERS|9|
+|Unit III|SHELLS & FILTERS|9|
 Introduction to Shells: UNIX Session – Standard Streams – Redirection – Pipes – Command Execution – Command-Line Editing – Quotes – Command Substitution – Job Control – Aliases – Variables – Options – Shell/Environment Customization; Filters; Communications: Mail – Remote Access – File Transfer;
 
 {{{unit}}}
