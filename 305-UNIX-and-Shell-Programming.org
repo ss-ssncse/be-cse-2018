@@ -46,7 +46,7 @@ After the completion of this course, students will be able to:
 - Use vi editor with proficiency (K3).
 - Write Shell programs (K3).
 
-**References:
+** References:
 1. Behrouz Forouzan and Richard Gilberg “UNIX and Shell Programming: A Textbook” Thomson Learning Inc., 2005
 2. Richard Blum and Christine Bresnahan “Linux Command Line and Shell Scripting Bible ”, Wiley 2015
 3. Sumitabha Das “Unix : Concepts and Applications”, Tata McGraw Hill 2017
