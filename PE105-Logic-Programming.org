@@ -45,7 +45,7 @@ After the completion of this course, students will be able to:
 - implement AI search algorithms in PROLOG (K3).
 - implement a simple Expert system shell in PROLOG (K3).
 
-**References:
+** References:
 1. Uwe Schoning “Logic for Computer Scientists” Birkhauser 1999. (Units I, II)
 2. Ivan Bratko “PROLOG: Programming for Artificial Intelligence” 4th Edn. Pearson 2011. (Units III, IV, V)
 3. Kees Doets “From Logic to Logic Programming” MIT Press 1994
