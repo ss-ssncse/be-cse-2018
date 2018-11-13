@@ -48,7 +48,7 @@ After the completion of this course, students will be able to:
 - Specify and Verify simple systems using NuSMV (K3).
 - Specify and Verify simple systems using UPPAAL (K3).
 
-**References:
+** References:
 1. M. Huth and M. Ryan, “Logic in Computer Science--Modeling and Reasoning about systems”, Second Edition, 
     Cambridge University Press, 2004. (Units I,II and III)
 2. Edmund Clarke, Orna Grumberg, and Doron Peled,“ Model Checking”, The MIT Press, 1999. (Units III and IV)
