@@ -63,7 +63,7 @@ After the completion of this course, students will be able to:
 3. Andreas Muller and Sarah Guido “Introduction to Machine Learning with Python: A Guide for Data Scientists”  Shroff/O'Reilly; First edition (2016)
 4. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, Cambridge University Press; Second Edition (2017)
 
-**Lab Exercises:
+** Lab Exercises:
 1. Implementation of Uninformed Search Techniques
 2. Implementation of Informed Search Techniques
 3. Implementation of Hill Climbing algorithms
